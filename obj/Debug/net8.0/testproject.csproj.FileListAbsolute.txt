@@ -1,0 +1,14 @@
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/bin/Debug/net8.0/testproject
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/bin/Debug/net8.0/testproject.deps.json
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/bin/Debug/net8.0/testproject.runtimeconfig.json
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/bin/Debug/net8.0/testproject.dll
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/bin/Debug/net8.0/testproject.pdb
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/obj/Debug/net8.0/testproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/obj/Debug/net8.0/testproject.AssemblyInfoInputs.cache
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/obj/Debug/net8.0/testproject.AssemblyInfo.cs
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/obj/Debug/net8.0/testproject.csproj.CoreCompileInputs.cache
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/obj/Debug/net8.0/testproject.dll
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/obj/Debug/net8.0/refint/testproject.dll
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/obj/Debug/net8.0/testproject.pdb
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/obj/Debug/net8.0/testproject.genruntimeconfig.cache
+/Users/williea.bello/Documents/freecodecamp/C#/contenidosdecadena/testproject/obj/Debug/net8.0/ref/testproject.dll
